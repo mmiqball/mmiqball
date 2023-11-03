@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java and ML.**
 
-- 🤝 I’m looking for help with **Summer 2023 coop/internships.**
+- 🤝 I’m looking for help with **Summer 2024 coop/internships.**
 
 - 👯 I’m open to collaborating on **anything!**
 
