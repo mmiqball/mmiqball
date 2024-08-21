@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mujtaba</h1>
-<h3 align="center">2B CS @ Waterloo</h3>
+<h3 align="center">3A CS @ Waterloo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmi2004&label=Profile%20views&color=0e75b6&style=flat" alt="mmi2004" /> </p>
 
