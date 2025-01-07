@@ -5,15 +5,9 @@
 
 - 📫 Feel free to reach out! **mmiqbal@uwaterloo.ca**
 
-- 💬 Ask me about **web development, Python.**
+- 🌱 I’m currently a **Backend Developer Intern at Shopify.**
 
-- 🌱 I’m currently learning **Java and ML.**
-
-- 🤝 I’m looking for help with **Winter and Summer 2025 internships.**
-
-- 👯 I’m open to collaborating on **anything!**
-
-- ⚡ Fun fact, **I can speak 4 languages**
+- 👯 Open to collaborating on **anything!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
