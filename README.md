@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently a **SDE Intern at Amazon Web Services.**
 
-- ✨ Previously @ Shopify
+- ✨ Previously interned at **Shopify**
 
 - 📫 Feel free to reach out! **mmiqbal@uwaterloo.ca**
 
