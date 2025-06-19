@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmi2004&label=Profile%20views&color=0e75b6&style=flat" alt="mmi2004" /> </p>
 
-- 🌱 I’m currently a **Backend Developer Intern at Shopify.**
+- 🌱 I’m currently a **SDE Intern at Amazon Web Services.**
+
+- ✨ Previously @ Shopify
 
 - 📫 Feel free to reach out! **mmiqbal@uwaterloo.ca**
 
