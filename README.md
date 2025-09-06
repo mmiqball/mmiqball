@@ -1,13 +1,11 @@
 <h1 align="center">Hey 👋, I'm Mujtaba</h1>
-<h3 align="center">3A Computer Science @ UWaterloo</h3>
+<h3 align="center">3B Computer Science @ UWaterloo</h3>
 
 <p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q0bWJlZnEybHR2eGdzd2QyMDhjdDAzZXgycjg4Z28yb2w2YXdvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="mmi2004" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmi2004&label=Profile%20views&color=0e75b6&style=flat" alt="mmi2004" /> </p>
 
-- 🌱 I’m currently a **SDE Intern at Amazon Web Services.**
-
-- ✨ Previously interned at **Shopify**
+- ✨ Previously interned at **Amazon Web Services** working on Step Functions, and at **Shopify** working on Order Editing.
 
 - 📫 Feel free to reach out! **mmiqbal@uwaterloo.ca**
 
