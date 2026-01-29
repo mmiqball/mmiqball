@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mujtaba</h1>
-<h3 align="center">3B Computer Science @ UWaterloo</h3>
+<h3 align="center">4A Computer Science @ UWaterloo</h3>
 
 <p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q0bWJlZnEybHR2eGdzd2QyMDhjdDAzZXgycjg4Z28yb2w2YXdvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="mmi2004" /> </p>
 
